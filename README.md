@@ -7,10 +7,10 @@ Navigate to:
 Developer Tools
   CodeCommit
 
-User name 
-gitREAD,
+User name: 
+gitREAD
 
-Password
+Password:
 jMU1jA}1u}v^
 
 Console login link
