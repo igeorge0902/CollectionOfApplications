@@ -1,6 +1,6 @@
 # CollectionOfApplications
 
-The repos at N. Virgina and Oregon are for the free and unconditional gift to the public.
+The repos at N. Virgina and Oregon are for free and unconditional gift to the public.
 
 Navigate to:
 
