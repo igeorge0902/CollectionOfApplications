@@ -16,6 +16,8 @@ jMU1jA}1u}v^
 Console login link
 https://259428316598.signin.aws.amazon.com/console
 
+Credentials work with HTTP, only.
+
 Enjoy!
 
 György Gáspár (c) MIT Licence
