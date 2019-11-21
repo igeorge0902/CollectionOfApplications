@@ -22,6 +22,7 @@ User name:
 gitreporeader@gmail.com
 Password:
 gitreporeader12345
+Then run the GitConfig for Google Console.
 
 Credentials work with HTTP, only.
 
