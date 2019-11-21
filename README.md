@@ -10,19 +10,20 @@ Developer Tools
 Console login link
 https://259428316598.signin.aws.amazon.com/console
 
-User name: 
+### User name: 
 gitREAD
-Password:
+### Password:
 jMU1jA}1u}v^
 
 Google Console link
 https://source.cloud.google.com/acoustic-fusion-143518/www
 
-User name:
+### User name:
 gitreporeader@gmail.com
-Password:
+### Password:
 gitreporeader12345
-Then run the GitConfig for Google Console.
+
+#### Then run the GitConfig for Google Console.
 
 Credentials work with HTTP, only.
 
