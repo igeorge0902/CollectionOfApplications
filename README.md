@@ -7,21 +7,21 @@ Navigate to:
 Developer Tools
   CodeCommit
 
-Console login link
-https://259428316598.signin.aws.amazon.com/console
+#### AWS Console login link
+* https://259428316598.signin.aws.amazon.com/console
 
-### User name: 
-gitREAD
-### Password:
-jMU1jA}1u}v^
+>User name: 
+* gitREAD
+>Password:
+* jMU1jA}1u}v^
 
-Google Console link
-https://source.cloud.google.com/acoustic-fusion-143518/www
+#### Google Console link
+* https://source.cloud.google.com/acoustic-fusion-143518/www
 
-### User name:
-gitreporeader@gmail.com
-### Password:
-gitreporeader12345
+>User name:
+* gitreporeader@gmail.com
+> Password:
+* gitreporeader12345
 
 #### Then run the GitConfig for Google Console.
 
